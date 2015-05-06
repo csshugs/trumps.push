@@ -1,4 +1,4 @@
-#push
+#Push
 
 Push elements to the right.
 
